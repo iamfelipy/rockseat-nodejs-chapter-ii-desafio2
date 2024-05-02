@@ -2,6 +2,9 @@
 
 Este projeto segue os princípios da Arquitetura Limpa (Clean Architecture), utilizando as tecnologias NODE, TYPESCRIPT, EXPRESS, UUID, JEST, ESLINT,  PRETTIER e SWAGGER. Implementa funcionalidades como cadastro de usuários, listagem para administradores, autenticação, restrição de acesso e gerenciamento de permissões, aderindo aos princípios do SOLID e ao padrão de design Repository. Além disso, possui documentação da API para facilitar o uso e a manutenção do sistema.
 
+
+![imagem da documentação da api com o swagger](https://github.com/iamfelipy/rockseat-nodejs-chapter-ii-desafio2/blob/main/nodejs-swagger-api-user-solid-clean-arcthectiure.png?raw=true)
+
 ## Tecnologias Utilizadas
 
 - NODE
