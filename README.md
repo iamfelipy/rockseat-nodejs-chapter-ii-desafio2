@@ -1,6 +1,6 @@
 # API "Listagem e cadastro de usuários"
 
-Este projeto segue os princípios da Arquitetura Limpa (Clean Architecture), utilizando as tecnologias NODE, TYPESCRIPT, EXPRESS, UUID, JEST, ESLINT e PRETTIER. Implementa funcionalidades como cadastro de usuários, listagem para administradores, autenticação, restrição de acesso e gerenciamento de permissões, aderindo aos princípios do SOLID e ao padrão de design Repository. Além disso, possui documentação da API para facilitar o uso e a manutenção do sistema.
+Este projeto segue os princípios da Arquitetura Limpa (Clean Architecture), utilizando as tecnologias NODE, TYPESCRIPT, EXPRESS, UUID, JEST, ESLINT,  PRETTIER e SWAGGER. Implementa funcionalidades como cadastro de usuários, listagem para administradores, autenticação, restrição de acesso e gerenciamento de permissões, aderindo aos princípios do SOLID e ao padrão de design Repository. Além disso, possui documentação da API para facilitar o uso e a manutenção do sistema.
 
 ## Tecnologias Utilizadas
 
